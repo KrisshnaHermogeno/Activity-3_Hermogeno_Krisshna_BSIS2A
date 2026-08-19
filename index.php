@@ -61,6 +61,3 @@ echo "<strong>Average Grade:</strong> " . number_format($hermogeno_average, 2) .
 echo "<strong>Remarks:</strong> " . $hermogeno_remarks . "<br>";
 echo "<strong>Grade Scale:</strong> $hermogeno_scale<br>";
 ?>
-
-</body>
-</html>
